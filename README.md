@@ -1,9 +1,12 @@
-[README (1).md](https://github.com/user-attachments/files/34963843/README.1.md)
 # Amazon India Dashboard
 
 A one-page management dashboard built for Manoj to share with his manager, Ravi. It shows how the Amazon India business is performing using simple charts and plain-English summaries, so no technical knowledge is needed to read it.
 
 Data source: `Amazon_Sales_Data_India.xlsx` (10,000 orders, January 2024 to August 2026).
+
+## Live Demo
+
+**Dashboard:** [https://ayusman8260.github.io/amazon-india-dashboard/](https://ayusman8260.github.io/amazon-india-dashboard/)
 
 ## What the dashboard shows
 
