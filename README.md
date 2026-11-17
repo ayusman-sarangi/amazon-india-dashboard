@@ -6,7 +6,7 @@ Data source: `Amazon_Sales_Data_India.xlsx` (10,000 orders, January 2024 to Augu
 
 ## Live Demo
 
-**Dashboard:** [https://ayusman8260.github.io/amazon-india-dashboard/](https://ayusman8260.github.io/amazon-india-dashboard/)
+**Dashboard:** [ https://ayusman-sarangi.github.io/amazon-india-dashboard/)
 
 ## What the dashboard shows
 
